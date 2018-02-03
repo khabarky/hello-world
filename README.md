@@ -1,2 +1,1 @@
-# hello-world
-just another respository
+An amateur want to be professional in PHP programming Language
